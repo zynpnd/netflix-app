@@ -8,16 +8,23 @@ Proje Gereksinimleri
     * React.js
     * MongoDB
 
+---
 
-1. Api 
+    1. Api 
 
-### `cd api`
-### `npm install`
-### `nodemon`   yada `npm start`
+         * cd api
+         * npm install
+         * npm start
 
+---
+    2.Client
 
-2.Client
+        * cd client
+        * npm install
+        * npm start
 
-### `cd client`
-### `npm install`
-### `npm start`
+---
+Yapılanlar
+
+        1.React Netflix designer
+        2.Crud İşlemleri 
